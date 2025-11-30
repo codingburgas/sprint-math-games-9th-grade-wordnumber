@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="wordNumber/wordNumber.vcxproj" Id="b5805276-b7cf-4301-9c22-29ce493d041d" />
+</Solution>
