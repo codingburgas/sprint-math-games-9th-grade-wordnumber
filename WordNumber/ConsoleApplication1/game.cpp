@@ -2,7 +2,8 @@
 
 vector<string> words = {
     "COMPUTER", "PROGRAM", "KEYBOARD", "HANGMAN",
-    "LIBRARY", "FUNCTION", "VARIABLE", "ALGORITHM"
+    "LIBRARY", "FUNCTION", "VARIABLE", "ALGORITHM",
+
 };
 
 string chooseWord() {
