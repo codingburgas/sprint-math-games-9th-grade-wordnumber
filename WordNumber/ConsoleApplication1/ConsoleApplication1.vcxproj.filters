@@ -32,9 +32,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -46,6 +43,9 @@
     </ClInclude>
     <ClInclude Include="chooseGame.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
