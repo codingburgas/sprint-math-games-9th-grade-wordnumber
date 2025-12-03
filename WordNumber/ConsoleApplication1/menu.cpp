@@ -1,39 +1,56 @@
-#include "menu.h"
-#include "game.h"
+#include "menu.h" 
+#include "game.h" 
+#include "rules.h"
+
 void menu() {
-    InitWindow(800, 600, "Hangman WordNumber)");
-    SetTargetFPS(60);
+	const int screenWidth = 1920; 
+	const int screenHeight = 1080; 
 
-    bool inMenu = true;
 
-    Rectangle playBtn = { 300, 250, 200, 60 };
-    Rectangle quitBtn = { 300, 330, 200, 60 };
+	InitWindow(screenWidth, screenHeight, "WordNumber");
+	Image logoIcon = LoadImage("../images/logo.png");
+	SetWindowIcon(logoIcon);
+	Vector2 mousePosition = GetMousePosition();
+	Texture2D logo = LoadTexture("../images/logo.png");
+	Texture2D menuBg = LoadTexture("../images/menuBackground.png");
+	const Rectangle startQuizButton = { (screenWidth / 2)-110, (screenHeight / 2) - 60, 270, 100 };
+	const Rectangle rulesButton = { (screenWidth / 2)-110, (screenHeight / 2) + 110, 270, 100 };
+	const Rectangle exitButton = { (screenWidth / 2)-110, (screenHeight / 2) + 280, 270, 100 };
 
-    while (inMenu && !WindowShouldClose()) {
-        Vector2 mouse = GetMousePosition();
+	while (!WindowShouldClose()) {
 
-        if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            if (CheckCollisionPointRec(mouse, playBtn)) {
-                game();
-            }
-            if (CheckCollisionPointRec(mouse, quitBtn)) {
-                CloseWindow();
-            }
-        }
+		mousePosition = GetMousePosition();
 
-        BeginDrawing();
-        ClearBackground(RAYWHITE);
+		BeginDrawing();
+		DrawTexture(menuBg, 0, 0, RAYWHITE);
+		DrawTexture(logo, (screenWidth / 2) - 850, (screenHeight / 2) - 440,RAYWHITE);
+		bool isMouseOverStart = CheckCollisionPointRec(mousePosition, startQuizButton);
+		DrawRectangleRec(startQuizButton, (isMouseOverStart ? SKYBLUE : BLUE));
+		DrawText("Start", screenWidth / 2 -50, screenHeight / 2 - 30, 50, BLACK);
 
-        DrawText("HANGMAN", 260, 120, 60, BLACK);
+		if (isMouseOverStart && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
+			game();
+		}
 
-        DrawRectangleRec(playBtn, LIGHTGRAY);
-        DrawRectangleLinesEx(playBtn, 2, BLACK);
-        DrawText("PLAY", playBtn.x + 65, playBtn.y + 15, 30, BLACK);
+		bool isMouseOverRules = CheckCollisionPointRec(mousePosition, rulesButton);
+		DrawRectangleRec(rulesButton, (isMouseOverRules ? GREEN : LIME));
+		DrawText("Rules", screenWidth / 2 -50, screenHeight / 2 +135, 50, BLACK);
 
-        DrawRectangleRec(quitBtn, LIGHTGRAY);
-        DrawRectangleLinesEx(quitBtn, 2, BLACK);
-        DrawText("QUIT", quitBtn.x + 65, quitBtn.y + 15, 30, BLACK);
+		if (isMouseOverRules && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
+			rules();
+		}
 
-        EndDrawing();
-    }
+
+		bool isMouseOverExit = CheckCollisionPointRec(mousePosition, exitButton);
+		DrawRectangleRec(exitButton, (isMouseOverExit ? PINK : RED));
+		DrawText("Exit", screenWidth / 2-25, screenHeight / 2 + 305, 50, BLACK);
+
+		if (isMouseOverExit && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
+			CloseWindow();
+		}
+
+		ClearBackground(DARKBLUE);
+
+		EndDrawing();
+	}
 }
