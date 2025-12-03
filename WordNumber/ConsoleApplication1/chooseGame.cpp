@@ -1,6 +1,6 @@
 #include "chooseGame.h"
 #include "menu.h"
-#include "hangman.h"
+#include "games.h"
 void chooseGame() {
     const int screenWidth = 1920;
     const int screenHeight = 1080;
@@ -9,8 +9,6 @@ void chooseGame() {
     const Rectangle quiz2Button = { screenWidth / 2 + 250, screenHeight / 2 - 330, 300, 120 };
     const Rectangle quiz3Button = { screenWidth / 2 - 450, screenHeight / 2 - 110, 300, 120 };
     const Rectangle quiz4Button = { screenWidth / 2 + 250, screenHeight / 2 - 110, 300, 120 };
-    const Rectangle quiz5Button = { screenWidth / 2 - 450, screenHeight / 2 + 110, 300, 120 };
-    const Rectangle quiz6Button = { screenWidth / 2 + 250, screenHeight / 2 + 110, 300, 120 };
     const Rectangle backButton = { screenWidth / 2 + 475, screenHeight / 2 + 280, 300, 120 };
 
     Texture2D background = LoadTexture("../images/background1.png");
@@ -32,9 +30,9 @@ void chooseGame() {
 
         bool isMouseOverQuiz2 = CheckCollisionPointRec(mousePosition, quiz2Button);
         DrawRectangleRec(quiz2Button, isMouseOverQuiz2 ? DARKGRAY : SKYBLUE);
-        DrawText("Game 2", screenWidth / 2 + 315, screenHeight / 2 - 290, 50, WHITE);
+        DrawText("Math Game", screenWidth / 2 + 315, screenHeight / 2 - 290, 50, WHITE);
         if (isMouseOverQuiz2 && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            ;
+            startMathGame();
         }
 
         bool isMouseOverQuiz3 = CheckCollisionPointRec(mousePosition, quiz3Button);

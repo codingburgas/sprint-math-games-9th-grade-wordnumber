@@ -8,4 +8,7 @@
 #include <vector>
 #include <set>
 #include <ctime>
+#include <cstdlib>
+#include <cstdio>
+
 using namespace std;
