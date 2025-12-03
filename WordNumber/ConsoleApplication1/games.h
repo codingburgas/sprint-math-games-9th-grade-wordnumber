@@ -6,3 +6,4 @@ void hangman();
 string chooseWord();
 
 void startMathGame();
+void crossword();

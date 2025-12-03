@@ -39,7 +39,7 @@ void chooseGame() {
         DrawRectangleRec(game3Button, isMouseOverQuiz3 ? DARKGRAY : SKYBLUE);
         DrawText("Game 3", screenWidth / 2 - 385, screenHeight / 2 + 30, 50, WHITE);
         if (isMouseOverQuiz3 && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            ;
+            crossword();
         }
 
         bool isMouseOverQuiz4 = CheckCollisionPointRec(mousePosition, game4Button);

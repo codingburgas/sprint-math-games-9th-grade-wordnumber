@@ -1,3 +1,6 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  chooseGame.cpp
+  games.cpp
+D:\Users\ASUS\Desktop\project\sprint-math-games-9th-grade-wordnumber\WordNumber\ConsoleApplication1\games.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\ASUS\Desktop\project\sprint-math-games-9th-grade-wordnumber\WordNumber\ConsoleApplication1\games.cpp(248,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Users\ASUS\Desktop\project\sprint-math-games-9th-grade-wordnumber\WordNumber\ConsoleApplication1\games.cpp(248,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   ConsoleApplication1.vcxproj -> D:\Users\ASUS\Desktop\project\sprint-math-games-9th-grade-wordnumber\WordNumber\x64\Debug\WordNumber.exe
