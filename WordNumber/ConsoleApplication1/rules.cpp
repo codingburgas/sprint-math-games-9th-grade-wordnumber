@@ -1,4 +1,4 @@
-#include "game.h"
+#include "chooseGame.h"
 #include "menu.h"
 
 void rules() {
@@ -26,7 +26,7 @@ void rules() {
 
         if (IsMouseButtonPressed(MOUSE_BUTTON_LEFT) && CheckCollisionPointRec(mousePosition, toGame))
         {
-            game(); 
+            chooseGame(); 
         }
     }
 }

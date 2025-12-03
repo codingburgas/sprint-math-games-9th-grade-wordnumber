@@ -2,4 +2,4 @@
 
 #include "pch.h"
 
-void menu();
+void menu(bool hasInit);

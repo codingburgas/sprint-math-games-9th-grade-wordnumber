@@ -1,13 +1,15 @@
 #include "menu.h" 
-#include "game.h" 
+#include "chooseGame.h" 
 #include "rules.h"
 
-void menu() {
+void menu(bool hasInit) {
 	const int screenWidth = 1920; 
 	const int screenHeight = 1080; 
 
-
-	InitWindow(screenWidth, screenHeight, "WordNumber");
+	if (!hasInit)
+	{
+		InitWindow(screenWidth, screenHeight, "WordNumber");
+	}
 	Image logoIcon = LoadImage("../images/logo.png");
 	SetWindowIcon(logoIcon);
 	Vector2 mousePosition = GetMousePosition();
@@ -29,7 +31,7 @@ void menu() {
 		DrawText("Start", screenWidth / 2 -50, screenHeight / 2 - 30, 50, BLACK);
 
 		if (isMouseOverStart && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-			game();
+			chooseGame();
 		}
 
 		bool isMouseOverRules = CheckCollisionPointRec(mousePosition, rulesButton);
@@ -54,3 +56,4 @@ void menu() {
 		EndDrawing();
 	}
 }
+
