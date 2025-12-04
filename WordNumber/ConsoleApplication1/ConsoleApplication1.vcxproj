@@ -132,8 +132,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chooseGame.cpp" />
-    <ClCompile Include="games.cpp" />
+    <ClCompile Include="crossword.cpp" />
+    <ClCompile Include="hangman.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mathGame.cpp" />
     <ClCompile Include="menu.cpp" />
     <ClCompile Include="rules.cpp" />
   </ItemGroup>
