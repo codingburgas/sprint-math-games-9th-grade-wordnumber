@@ -1,4 +1,3 @@
-// mathGame.cpp
 #include "games.h"
 #include "raylib.h"
 
