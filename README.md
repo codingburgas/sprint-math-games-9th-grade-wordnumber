@@ -37,23 +37,23 @@ git clone https://github.com/codingburgas/sprint-math-games-9th-grade-wordnumber
 ## 💻Tech Stack <a name="technologies"></a>
 ###  Tools:
 <p>
-<img src="" alt="VS Code Icon" width=75px>
-<img src="" alt="GitHub Icon" width=75px>
+<img src="assets/vs.png" alt="VS Code Icon" width=75px>
+<img src="assets/github.png" alt="GitHub Icon" width=75px>
 </p>
-### Languages:
+###  Languages:
 <p>
-<img src="" alt="C++ Icon" width=75px>
+<img src="assets/cpp.png" alt="C++ Icon" width=75px>
 </p>
 ### Comunication:
-<img src="" alt="Teams Icon" width=75px>
-### Documentation:
+<img src="assets/teams.png" alt="Teams Icon" width=75px>
+###  Documentation:
 <p>
-<img src="" alt="Word Icon" width=75px>
-<img src="" alt="Powerpoint Icon" width=75px>
+<img src="assets/Word.png" alt="Word Icon" width=75px>
+<img src="assets/Powerpoint.png" alt="Powerpoint Icon" width=75px>
 </p>
 ### Design:
 <p>
-<img src="" alt="Photoshop Icon" width=75px>
+<img src="assets/Photoshop.png" alt="Photoshop Icon" width=75px>
 </p>
 ---
 ## 👥 Team <a name="team"></a>
