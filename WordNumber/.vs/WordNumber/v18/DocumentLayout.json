@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\rules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\chooseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\crossword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\mathGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\rules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\chooseGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\chooseGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\crossword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B9AC0AF-D8F0-4DC7-95D5-8753B0CC44FD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\mathGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,78 +58,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "crossword.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\crossword.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\crossword.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T19:51:28.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "hangman.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\hangman.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\hangman.cpp",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAkwFwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T19:50:41.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T20:34:09.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "mathGame.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\mathGame.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\mathGame.cpp",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T19:51:01.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "rules.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\rules.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\rules.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T19:35:58.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\hangman.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\hangman.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\hangman.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:50:41.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "games.h",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\games.h",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\games.h",
               "RelativeToolTip": "ConsoleApplication1\\games.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -137,24 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "menu.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\menu.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp",
-              "RelativeToolTip": "ConsoleApplication1\\menu.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-04T19:35:59.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "chooseGame.cpp",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1\\chooseGame.cpp",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.cpp",
               "RelativeToolTip": "ConsoleApplication1\\chooseGame.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -162,11 +98,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "chooseGame.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\chooseGame.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h",
+              "RelativeToolTip": "ConsoleApplication1\\chooseGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-04T19:35:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "menu.h",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\menu.h",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.h",
               "RelativeToolTip": "ConsoleApplication1\\menu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -174,23 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "rules.h",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\rules.h",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h",
-              "RelativeToolTip": "ConsoleApplication1\\rules.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-04T19:35:58.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h",
               "RelativeDocumentMoniker": "ConsoleApplication1\\pch.h",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\pch.h",
               "RelativeToolTip": "ConsoleApplication1\\pch.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -198,15 +134,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "chooseGame.h",
-              "DocumentMoniker": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h",
-              "RelativeDocumentMoniker": "ConsoleApplication1\\chooseGame.h",
-              "ToolTip": "C:\\Users\\vilip\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\chooseGame.h",
-              "RelativeToolTip": "ConsoleApplication1\\chooseGame.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "rules.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\rules.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.h",
+              "RelativeToolTip": "ConsoleApplication1\\rules.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-04T19:35:58.703Z"
+              "WhenOpened": "2025-12-04T19:35:58.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T20:34:09.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rules.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\rules.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\rules.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\rules.cpp",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:35:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\menu.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\menu.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\menu.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:35:59.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mathGame.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\mathGame.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\mathGame.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\mathGame.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:51:01.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "crossword.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\crossword.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0430\\Desktop\\sprint-math-games-9th-grade-wordnumber\\WordNumber\\ConsoleApplication1\\crossword.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\crossword.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:51:28.301Z"
             }
           ]
         }
