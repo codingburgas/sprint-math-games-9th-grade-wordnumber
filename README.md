@@ -31,7 +31,7 @@ Our goal is to provide a fun, engaging, and exciting experience for every player
 
 ## 📃 Documentation and Presentation <a name="docs"></a>
 - <a href="https://codingburgas-my.sharepoint.com/:w:/g/personal/sdtanev24_codingburgas_bg/IQCpWHWb8F63QropVtFa8nL0AdvlImfrubGheZ7yfTHAkbo?e=nV4mnf">**Documentation**</a>
--  **Presentation** (link soon)
+- <a href="https://codingburgas-my.sharepoint.com/:p:/g/personal/viivanov24_codingburgas_bg/IQABRsBXPW49TpVcCzCK4RTmAdLkY1vps0FoKbSJRVwQZys?e=fNMAXq">**Presentation**</a>
 
 ---
 
