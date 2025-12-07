@@ -27,7 +27,7 @@ static void DrawRoundedRectangle(Rectangle rec, float radius, Color color)
     DrawCircleV(c3, radius, color);
     DrawCircleV(c4, radius, color);
 }
-static void DrawRoundedRectangleLines(Rectangle rec, float radius, float thick, Color color)
+void DrawRoundedRectangleLines(Rectangle rec, float radius, float thick, Color color)
 {
     if (thick <= 0.0f) return;
 
@@ -104,10 +104,9 @@ void rules()
         50.0f
     };
 
-    while (true)
+    while (!WindowShouldClose())
     {
-        if (WindowShouldClose())
-            return;
+        SetExitKey(KEY_ESCAPE);
 
         float t = (float)GetTime();
         Vector2 mouse = GetMousePosition();
@@ -143,7 +142,7 @@ void rules()
         DrawRoundedRectangleLines(panel, 24.0f, 3.0f, neon);
 
         // Заглавие
-        const char* title = "QUIZ RULES";
+        const char* title = "WordNumber RULES";
         int titleFontSize = 40;
         int titleWidth = MeasureText(title, titleFontSize);
         DrawText(
@@ -175,7 +174,7 @@ void rules()
         DrawRoundedRectangle(toGame, 18.0f, startFill);
         DrawRoundedRectangleLines(toGame, 18.0f, 2.0f, startBorder);
 
-        const char* startText = "START QUIZ";
+        const char* startText = "CHOOSE GAME";
         int startFontSize = 24;
         int startTextWidth = MeasureText(startText, startFontSize);
         DrawText(
@@ -193,8 +192,6 @@ void rules()
             GRAY);
 
         EndDrawing();
-        if (IsKeyPressed(KEY_ESCAPE))
-            return;
         if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON) && hoverStart)
             chooseGame();
     }
