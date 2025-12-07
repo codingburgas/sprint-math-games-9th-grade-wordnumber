@@ -2,7 +2,7 @@
 #include "raylib.h"
 #include <cmath>
 
-static void NewQuestion(int& a, int& b, int& correct, int answers[4])
+void NewQuestion(int& a, int& b, int& correct, int answers[4])
 {
     a = GetRandomValue(1, 20);
     b = GetRandomValue(1, 20);

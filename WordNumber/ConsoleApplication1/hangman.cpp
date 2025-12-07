@@ -1,38 +1,39 @@
 #include "games.h"
-#include "raylib.h"
-#include <vector>
-#include <string>
-#include <set>
-#include <ctime>
-#include <cstdlib>
-#include <fstream>
 
-using namespace std;
+vector<string> words = {
+    "TREE", "RIVER", "MOUNTAIN", "FOREST", "SUNLIGHT", "OCEAN", "RAINBOW",
+    "STONE", "BREEZE", "THUNDER", "MEADOW", "VALLEY", "HURRICANE",
 
-static vector<string> loadWords()
-{
-    vector<string> words;
-    ifstream file("hangmanWords.txt");
+    "PENCIL", "NOTEBOOK", "TEACHER", "CLASSROOM", "STUDENT", "MARKER", "BACKPACK",
+    "ERASER", "CHALK", "HOMEWORK", "SCIENCE", "HISTORY", "GEOGRAPHY",
 
-    if (!file.is_open()) {
-        words = { "ERROR", "NOFILE", "WORDS", "POORLY", "GIRLY", "HEADER", "FILES" };
-        return words;
-    }
+    "CAT", "DOG", "HORSE", "MONKEY", "EAGLE", "DOLPHIN", "PENGUIN",
+    "TIGER", "LION", "GIRAFFE", "FROG", "WOLF", "SNAKE", "RABBIT",
 
-    string word;
-    while (getline(file, word)) {
-        if (!word.empty())
-            words.push_back(word);
-    }
+    "APPLE", "BREAD", "BUTTER", "BANANA", "PIZZA", "CHOCOLATE", "ORANGE",
+    "BURGER", "PASTA", "CHEESE", "SALAD", "COOKIE", "SANDWICH",
 
-    return words;
-}
+    "WINDOW", "TABLE", "LAMP", "PHONE", "BOTTLE", "SCISSORS", "UMBRELLA",
+    "CHAIR", "PILLOW", "BLANKET", "KEYBOARD", "HEADPHONES", "BACKPACK",
 
-static string chooseWord()
-{
-    static vector<string> words = loadWords();
-    if (words.empty()) return "EMPTY";
-    srand((unsigned int)time(nullptr));
+    "AIRPORT", "VILLAGE", "MARKET", "HARBOR", "DESERT", "ISLAND", "CASTLE",
+    "STATION", "COUNTRY", "CITY", "TUNNEL", "BRIDGE", "TEMPLE",
+
+    "ASTEROID", "TELESCOPE", "DISCOVERY", "ARCHITECTURE", "ADVENTURE",
+    "HARMONIZE", "BLUEPRINT", "GALAXY", "INVENTION", "JOURNEY",
+
+    "COMPUTER", "PROGRAM", "KEYBOARD", "HANGMAN", "LIBRARY", "FUNCTION",
+    "VARIABLE", "ALGORITHM", "NETWORK", "DATABASE", "OPERATOR",
+
+    "CANDLE", "FLOWER", "GARDEN", "ROCKET", "PLANET", "YACHT",
+    "FACTORY", "THEATER", "MUSEUM", "HOSPITAL", "MARKETPLACE",
+
+    "SUNSET", "SUNRISE", "CLOUD", "WEATHER", "CLIMATE", "LIGHTNING",
+    "TORNADO", "EARTHQUAKE", "WILDFIRE", "TSUNAMI"
+};
+
+string chooseWord() {
+    srand(time(nullptr));
     return words[rand() % words.size()];
 }
 

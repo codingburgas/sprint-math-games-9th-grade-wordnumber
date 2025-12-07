@@ -2,7 +2,7 @@
 #include "menu.h"
 #include "raylib.h"
 #include <cmath>
-static void DrawRoundedRectangle(Rectangle rec, float radius, Color color)
+void DrawRoundedRectangle(Rectangle rec, float radius, Color color)
 {
     if (radius <= 0.0f)
     {
