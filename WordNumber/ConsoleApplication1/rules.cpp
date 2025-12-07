@@ -19,7 +19,7 @@ static void DrawRoundedRectangle(Rectangle rec, float radius, Color color)
     DrawRectangleRec(centerV, color);
     Vector2 c1{ rec.x + radius,             rec.y + radius };
     Vector2 c2{ rec.x + rec.width - radius, rec.y + radius };
-    Vector2 c3{ rec.x + radius,             rec.y + rec.height - radius };
+    Vector2 c3{ rec.x + radius,            rec.y + rec.height - radius };
     Vector2 c4{ rec.x + rec.width - radius, rec.y + rec.height - radius };
 
     DrawCircleV(c1, radius, color);
@@ -140,8 +140,6 @@ void rules()
 
         DrawRoundedRectangle(panel, 24.0f, panelFill);
         DrawRoundedRectangleLines(panel, 24.0f, 3.0f, neon);
-
-        // Заглавие
         const char* title = "WordNumber RULES";
         int titleFontSize = 40;
         int titleWidth = MeasureText(title, titleFontSize);
