@@ -84,4 +84,4 @@ git clone https://github.com/codingburgas/sprint-math-games-9th-grade-wordnumber
 | [**Stoyan Tanev**](https://github.com/SDTanev24) | Scrum Trainer | 9B |
 | [**Dara Sokrateva**](https://github.com/DQSokrateva24) | Backend Developer | 9A |
 | [**Vilian Ivanov**](https://github.com/VIIvanov24) | Backend Developer | 9G |
-| [**Kristyan Georgiev**](https://github.com/KMGeorgiev24) | Designer | 9V |
+| [**Kristiyan Georgiev**](https://github.com/KMGeorgiev24) | Designer | 9V |
