@@ -1,7 +1,7 @@
 <h1 align="center">WordNumber</h1>
 
 <p align="center">
-  <img src="" alt="WordNumber logo" width="45%">
+  <img src="WordNumber/images/logo.png" alt="WordNumber logo" width="150px" height="150px">
 </p>
 
 ---
