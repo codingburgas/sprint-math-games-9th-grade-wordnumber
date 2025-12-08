@@ -1,6 +1,9 @@
 #include "games.h"
 
-vector<string> words = {
+
+
+string chooseWord() {
+    vector<string> words = {
     "TREE", "RIVER", "MOUNTAIN", "FOREST", "SUNLIGHT", "OCEAN", "RAINBOW",
     "STONE", "BREEZE", "THUNDER", "MEADOW", "VALLEY", "HURRICANE",
 
@@ -30,9 +33,7 @@ vector<string> words = {
 
     "SUNSET", "SUNRISE", "CLOUD", "WEATHER", "CLIMATE", "LIGHTNING",
     "TORNADO", "EARTHQUAKE", "WILDFIRE", "TSUNAMI"
-};
-
-string chooseWord() {
+    };
     srand(time(nullptr));
     return words[rand() % words.size()];
 }

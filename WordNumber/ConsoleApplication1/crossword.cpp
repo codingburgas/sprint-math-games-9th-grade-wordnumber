@@ -1,10 +1,5 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
-#include "games.h"
-#include "raylib.h"
-#include <cstdio>
-#include <cstring>
-#include <cstdlib>
-#include <cmath>
+﻿#include "games.h"
+
 
 #define WORD_LEN 6
 #define HINT_LEN 200
@@ -15,7 +10,7 @@ struct Entry {
 };
 
 void crossword() {
-    const int rows = 7;
+    const int rows = 7; 
     const int cols = 5;
 
     Entry entries[] = {

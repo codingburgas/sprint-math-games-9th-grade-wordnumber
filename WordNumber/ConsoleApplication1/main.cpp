@@ -2,5 +2,4 @@
 
 int main() {
     menu(false);
-    return 0;
 }

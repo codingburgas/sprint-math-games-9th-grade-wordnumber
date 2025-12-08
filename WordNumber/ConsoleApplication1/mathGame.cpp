@@ -1,6 +1,5 @@
 ﻿#include "games.h"
 #include "raylib.h"
-#include <cmath>
 
 void NewQuestion(int& a, int& b, int& correct, int answers[4])
 {
@@ -147,7 +146,7 @@ void startMathGame()
             float pulse = 1.0f + 0.1f * (float)std::sin(finishAnimTime * 4.0f);
             int animSize = (int)(40 * pulse);
 
-            const char* mainText = won ? "YOU WIN! 🎉" : "TRY AGAIN! 😅";
+            const char* mainText = won ? "YOU WIN!" : "TRY AGAIN!";
             int mainWidth = MeasureText(mainText, animSize);
             DrawText(mainText, (screenW - mainWidth) / 2, 150, animSize, won ? LIME : PINK);
 
